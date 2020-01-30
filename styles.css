@@ -1,0 +1,45 @@
+html {
+    background-color: dimgrey;}
+
+.ONE { text-align: center;
+    font-size: 1.5cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    outline-style: auto;
+    outline-width: thin;
+    outline-color: floralwhite;}
+
+#TWO {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;}
+
+#THREE {font-size: large;}
+
+#FOUR {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;}
+
+#FIVE {font-size: large;}
+
+#SIX {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;}
+
+#SEVEN {font-size: large;}
+
+#EIGHT {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;}
+
+#NINE {font-size: large;}
+
+#TEN {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;}
+
+#ELEVEN {font-size: large;}
+
+#TWELVE {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: xx-large;}
+
+#BODY {outline-style: groove;  
+    outline-color: black;
+    outline-width: thin;
+    word-spacing: 2px;
+    line-height: normal;}
